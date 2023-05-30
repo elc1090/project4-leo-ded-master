@@ -19,7 +19,7 @@ Assim, poderá salvar magias, classes e monstros.
 
 #### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
+https://euphonious-dieffenbachia-1333cf.netlify.app/myhero
 
 
 #### Desenvolvedor(es)
