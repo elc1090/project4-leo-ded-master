@@ -9,7 +9,7 @@
 
 > Opcional: você pode alterar a formatação do README, mas mantenha todas as informações solicitadas
 
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
+![Screenshot do projeto](print.png "Screenshot do projeto").
 
 
 #### Descrição
