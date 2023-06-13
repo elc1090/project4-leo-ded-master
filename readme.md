@@ -21,20 +21,23 @@ Assim, poderá salvar magias, classes e monstros.
 
 https://euphonious-dieffenbachia-1333cf.netlify.app/myhero
 
+### Repositório Original Pessoal
+frontend: https://github.com/LeoVeig4/DeD-info
+backend: https://github.com/LeoVeig4/DeD-Backend
+
 
 #### Desenvolvedor(es)
-Felipe Colpo Bagesteiro
 Leonardo Silva da Veiga
 
 
 #### Tecnologias
 
 Front-end: Vue && Twind
-Backend: Rails e MongoDB
+Backend: Express e MongoDB
 
 #### Ambiente de desenvolvimento
 
-VSCODE e Rubymine
+VSCODE
 
 #### Créditos
 
@@ -48,6 +51,11 @@ Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemp
 
 Preencha aqui um breve relato dos bastidores e das particularidades do desenvolvimento do projeto, por exemplo: escolha do tema, algum detalhe marcante sobre as tecnologias usadas/aprendidas, bugs encontrados, alguma parte mais trabalhosa de implementar, etc.
 
+### O que há de novo:
+- recuperar senha
+- Mudar Informações do usuário
+- Poder Cadastrar Personagem e atribuir cards a ele
+- Melhorar visualização dos Cards
 
 
 ---
